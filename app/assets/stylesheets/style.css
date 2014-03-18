@@ -1,0 +1,18 @@
+body {
+	background-color: #FAFF75;
+	background-repeat: no-repeat !important;
+}
+
+.jumbotron {
+	background: url(beaudottes.jpg);
+	color: #FAFF75;
+	font-size: 20px;
+}
+
+.menu1 {
+	padding: 50px;
+}
+
+.menu2 {
+	padding: 50px;
+}
